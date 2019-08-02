@@ -5,12 +5,40 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Shell Command 2&amp;3</title>
+      <link>/post/shell-command-2-3/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/shell-command-2-3/</guid>
+      <description>
+
+
+&lt;div id=&#34;command-list&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Command List:&lt;/h1&gt;
+&lt;p&gt;Paste&lt;/p&gt;
+&lt;p&gt;cat exp: cat -d , -f 2&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(&amp;gt;\)&lt;/span&gt; - assigned value&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(|\)&lt;/span&gt; - pipe&lt;/p&gt;
+&lt;p&gt;wc exp: wc -w -l -c&lt;/p&gt;
+&lt;p&gt;grep exp: grep tooth summer/a.c&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(*\)&lt;/span&gt; exp: s*.&lt;/p&gt;
+&lt;p&gt;? exp: 2017?.txt&lt;/p&gt;
+&lt;p&gt;[] exp: 201[78].txt&lt;/p&gt;
+&lt;p&gt;{} - &lt;em&gt;.txt,&lt;/em&gt;.csv exp: &lt;a href=&#34;mailto:nicolas@grimm&#34;&gt;nicolas@grimm&lt;/a&gt;:~$ ls pic1.{txt,jpg,bmp}&lt;/p&gt;
+&lt;p&gt;sort - -n(num) -r(reverse) -b(ignore blank) -f(fold)&lt;/p&gt;
+&lt;p&gt;uniq - -c(count)&lt;/p&gt;
+&lt;p&gt;grep - -v(exclude)&lt;/p&gt;
+&lt;p&gt;^c - stop running&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Writing technical content in Academic</title>
