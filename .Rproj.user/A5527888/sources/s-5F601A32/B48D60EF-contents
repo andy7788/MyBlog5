@@ -1,0 +1,41 @@
+---
+title: Shell Command - 4
+author: Andy Huang
+date: '2019-08-02'
+slug: shell-command-4
+categories:
+  - shell
+tags:
+  - shell
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-08-02T15:24:49-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+set - get list of EVs Exp: set | grep " "
+
+
+echo - get values 
+
+
+$ - variables 
+
+
+###Assigning variables
+
+= - no space 
+
+
+EV - Evs'names are written upper case 
+
+
+####Loops 
+
+
+for filetype in gif jpg png; do echo $filetype; done
