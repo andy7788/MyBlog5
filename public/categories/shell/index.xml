@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell | ANDY HUANG</title>
+    <link>/categories/shell/</link>
+      <atom:link href="/categories/shell/index.xml" rel="self" type="application/rss+xml" />
+    <description>shell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>shell</title>
+      <link>/categories/shell/</link>
+    </image>
+    
+    <item>
+      <title>Shell Command - 1</title>
+      <link>/post/shell-command-1/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/shell-command-1/</guid>
+      <description>
+
+
+&lt;p&gt;mv&lt;/p&gt;
+&lt;p&gt;cp&lt;/p&gt;
+&lt;p&gt;mkdir&lt;/p&gt;
+&lt;p&gt;rmdir&lt;/p&gt;
+&lt;p&gt;tab - shortcut for path&lt;/p&gt;
+&lt;p&gt;head - Ex: head -n 100&lt;/p&gt;
+&lt;p&gt;tail&lt;/p&gt;
+&lt;p&gt;ls Ex: ls -r -f&lt;/p&gt;
+&lt;p&gt;man - display instruction&lt;/p&gt;
+&lt;p&gt;grep - searching&lt;/p&gt;
+&lt;p&gt;cat - :n :p :q&lt;/p&gt;
+&lt;p&gt;less&lt;/p&gt;
+&lt;p&gt;cut exp: cut -b 3 get third char each line&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+---
+title: Shell Command - 1
+author: Andy Huang
+date: '2019-08-02'
+slug: shell-command-1
+categories:
+  - shell
+tags:
+  - shell
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-08-02T13:57:20-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+mv
+
+cp
+
+mkdir 
+
+rmdir
+
+tab - shortcut for path 
+
+head - Ex: head -n 100
+
+tail
+
+ls Ex: ls -r -f 
+
+man - display instruction 
+
+grep - searching 
+
+cat - :n :p :q 
+
+less
+
+cut exp: cut -b 3 get third char each line
