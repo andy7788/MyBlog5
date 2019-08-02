@@ -1,0 +1,64 @@
+---
+title: 'Shell Command 2&3 '
+author: "Andy Huang"
+date: '2019-08-02'
+categories: Shell
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+lastmod: '2019-08-02T13:36:25-05:00'
+projects: []
+slug: shell-command-2-3
+subtitle: ''
+summary: ''
+tags: Shell
+authors: []
+---
+#Command List:
+
+Paste
+
+
+cat exp: cat -d , -f 2
+
+
+$>$ - assigned value
+ 
+
+$|$ - pipe
+
+
+wc exp: wc -w -l -c 
+
+
+grep exp: grep tooth summer/a.c
+
+
+$*$ exp: s*.
+
+
+? exp: 2017?.txt 
+
+
+[] exp: 201[78].txt
+
+
+{} - *.txt,*.csv exp: nicolas@grimm:~$ ls pic1.{txt,jpg,bmp}
+
+
+sort - -n(num) -r(reverse) -b(ignore blank) -f(fold)
+
+
+uniq - -c(count)
+
+
+grep - -v(exclude)
+
+
+^c - stop running 
+
+
+
+

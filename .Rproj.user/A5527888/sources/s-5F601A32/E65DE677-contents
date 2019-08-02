@@ -1,0 +1,58 @@
+---
+title: Shell Command - 2
+author: Andy Huang
+date: '2019-08-01'
+slug: shell-command-2
+categories: []
+tags: []
+---
+
+paste 
+
+
+cat - exp: cat -d , -f 2
+
+
+> - assgined value 
+
+
+| - pipe 
+
+
+wc - -w (word) -l (line) -c(byte)
+
+
+grep - grep "target" "path"
+
+
+#wildcard
+
+
+* - s*. 
+
+
+? - 201?.txt 
+
+
+[] - 201[78].txt
+
+
+{} - *.txt,*.csv exp: nicolas@grimm:~$ ls pic1.{txt,jpg,bmp}
+
+
+sort - -n(num) -r(reverse) -b(ignore blank) -f(fold)
+
+
+uniq - -c(count)
+
+
+grep -v(exclude)
+
+
+^c - stop running 
+
+
+
+
+
+
