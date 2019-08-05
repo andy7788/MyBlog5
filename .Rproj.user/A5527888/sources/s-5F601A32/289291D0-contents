@@ -1,0 +1,82 @@
+---
+title: Shell Command - 5
+author: Andy Huang
+date: '2019-08-05'
+slug: shell-command-5
+categories:
+  - shell
+tags:
+  - shell
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-08-05T16:37:44-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+####nano - edit file 
+
+
+Ctrl+k - delete a line
+
+
+Ctrl+U - un-delete a line
+
+
+Ctrl+o - save the file 
+
+
+Ctrl+k - cut
+
+
+Ctrl+u - paste
+
+
+pwd - current path 
+
+
+~ - home path 
+
+
+history - record just did
+
+
+less/cat - q - exit 
+
+
+uniq - -c print count
+
+
+####grep 
+
+
+-h - stop print filename 
+
+
+-v - don't match
+
+
+###shell script 
+
+
+exp - bash headers.sh
+
+exp - bash | sort
+
+
+###argument 
+
+
+$@ exp - bash command variable@ 
+
+
+###single argument
+
+
+$1 $2 - bash command variable1 variable2 
+
+

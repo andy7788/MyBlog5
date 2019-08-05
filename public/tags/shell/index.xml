@@ -5,12 +5,54 @@
     <link>/tags/shell/</link>
       <atom:link href="/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <description>shell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>shell</title>
       <link>/tags/shell/</link>
     </image>
+    
+    <item>
+      <title>Shell Command - 5</title>
+      <link>/post/shell-command-5/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/shell-command-5/</guid>
+      <description>
+
+
+&lt;div id=&#34;nano---edit-file&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;nano - edit file&lt;/h4&gt;
+&lt;p&gt;Ctrl+k - delete a line&lt;/p&gt;
+&lt;p&gt;Ctrl+U - un-delete a line&lt;/p&gt;
+&lt;p&gt;Ctrl+o - save the file&lt;/p&gt;
+&lt;p&gt;Ctrl+k - cut&lt;/p&gt;
+&lt;p&gt;Ctrl+u - paste&lt;/p&gt;
+&lt;p&gt;pwd - current path&lt;/p&gt;
+&lt;p&gt;~ - home path&lt;/p&gt;
+&lt;p&gt;history - record just did&lt;/p&gt;
+&lt;p&gt;less/cat - q - exit&lt;/p&gt;
+&lt;p&gt;uniq - -c print count&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;grep&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;grep&lt;/h4&gt;
+&lt;p&gt;-h - stop print filename&lt;/p&gt;
+&lt;p&gt;-v - don’t match&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;shell-script&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;shell script&lt;/h3&gt;
+&lt;p&gt;exp - bash headers.sh&lt;/p&gt;
+&lt;p&gt;exp - bash | sort&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;argument&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;argument&lt;/h3&gt;
+&lt;p&gt;$@ exp - bash command variable@&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;single-argument&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;single argument&lt;/h3&gt;
+&lt;p&gt;$1 $2 - bash command variable1 variable2&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Shell Command - 1</title>
